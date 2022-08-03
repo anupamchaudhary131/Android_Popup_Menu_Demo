@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashboard"
+        android:title="Go To Dashboard" />
+
+    <item android:id="@+id/studentList"
+        android:title="Student List" />
+
+    <item android:id="@+id/listOfCourses"
+        android:title="List Of Courses"  />
+
+    <item android:id="@+id/contactUS"
+        android:title="Contact Us" />
+
+    <item android:id="@+id/bookLecture"
+        android:title="Book A Demo Lecture" />
+</menu>
